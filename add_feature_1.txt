@@ -2,3 +2,4 @@ add feature 1;
 feature 1
 feature 2
 add release;
+add fix;
